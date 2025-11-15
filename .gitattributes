@@ -1,0 +1,4 @@
+target/* linguist-vendored
+*.css linguist-vendored
+*.js linguist-vendored
+*.xml linguist-vendored
